@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name Here]
+# 👋 Hi, I'm Kaung Min Khant
 
 ## 👩‍💻 About Me
 
