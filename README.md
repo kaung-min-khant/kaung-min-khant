@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👋 Hi, I'm [Your Name Here]
 
-<!--
-**kaung-min-khant/kaung-min-khant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a passionate technophile currently majoring in Mathematics-Computer Science and Business Economicsat University of California, San Diego. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+- **University:** University of California, San Diego
+- **Major(s):** Mathematics-Computer Science and Business Economics
+
+## 🛠️ Skills
+
+- **Languages:** Java, Python, JavaScript, Typescript
+- **Tools & Technologies:** Git, AWS, HTML, CSS, React, NodeJS, MySQL, MATLAB, Flask
+
+## 🌟 Projects
+
+- **[Computer Science and Engineering Society]**([Project Link 1]) - A brief description of what this project is about.
+- **[Add Your Recipe]**([Project Link 2]) - A brief description of what this project is about.
+
+## 🤝 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/kaungminkhant/)
+- [Personal Website](https://www.yourwebsite.com/)
+
+
