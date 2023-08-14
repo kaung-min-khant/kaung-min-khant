@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate technophile currently majoring in Mathematics-Computer Science and Business Economicsat University of California, San Diego. 
+I'm a passionate technophile currently majoring in Mathematics-Computer Science and Business Economics at University of California, San Diego. 
 
 ## 🎓 Education
 
