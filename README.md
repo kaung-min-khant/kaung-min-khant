@@ -8,6 +8,7 @@ I'm a passionate technophile currently majoring in Mathematics-Computer Science 
 
 - **University:** University of California, San Diego
 - **Major(s):** Mathematics-Computer Science and Business Economics
+- **Minor(s):** Finance
 
 ## 🛠️ Skills
 
